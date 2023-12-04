@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<strong>Olá, sou Roberio Alves, Estou atuamente estudando programação Full Stack.<strong/> 
+<strong>Sou Roberio Alves, Estou atuamente estudando programação Full Stack.<strong/> 
 
 <h3>Curso que já terminei:  <br> <br>
 
